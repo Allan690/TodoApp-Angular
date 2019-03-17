@@ -1,0 +1,9 @@
+.header{
+  background: #cccccc;
+  text-align: center;
+  padding: 10px;
+}
+.header a {
+  color: #ffffff;
+  text-decoration: none
+}

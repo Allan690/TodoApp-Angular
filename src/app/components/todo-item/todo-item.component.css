@@ -1,0 +1,15 @@
+.del {
+  background: mediumseagreen;
+  border: none;
+  float: right;
+  cursor: pointer;
+}
+
+.todo {
+  background: cadetblue;
+  padding: 10px;
+  border-bottom: 1px #cccccc dotted;
+}
+.is-complete {
+  text-decoration: line-through;
+}
